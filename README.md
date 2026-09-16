@@ -25,9 +25,9 @@ Number Guessing Game : Personal Budget Calculator
 
 ## 3. Project Description
 
-A website designed to help users calculate their personal financial situation in a simple way.
+A website designed to help users calculate their personal financial situation in a simple way
 ---
-
+---
 ## 4. Objectives
 
 This project is designed to apply the following programming concepts:
@@ -74,7 +74,7 @@ The program displays:
 
 The algorithm used in the program is described in:
 
-`pseudocode.txt`(pseudecode.txt)
+[pseudocode.txt](pseudocode.txt)
 
 
 ---
