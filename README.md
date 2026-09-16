@@ -9,11 +9,11 @@
 
 | No. | Name | Student ID | Role |
 |---|---|---|---|
-| 1 | Zalfaa Rihhadatul Aisyah | 2610312011 | Project Coordinator |
-| 2 | Mohammad Ibrahim Maulana | 2610312019 | Algorithm |
-| 3 | Maura Nurul Safira | 2610312025 | Flowchart |
-| 4 | Naflah Kania Chandra | 2610312028 | JavaScript |
-| 5 | Siraj Zahri Ayyubi | 2610312034 | Testing & Documentation |
+| 1 | Zalfaa Rihhadatul Aisyah | 2610312011 | Testing & Documentation |
+| 2 | Mohammad Ibrahim Maulana | 2610312019 | Project Coordinator |
+| 3 | Maura Nurul Safira | 2610312025 | JavaScript |
+| 4 | Naflah Kania Chandra | 2610312028 | Algorithm |
+| 5 | Siraj Zahri Ayyubi | 2610312034 | Flowchart |
 
 ---
 
@@ -25,8 +25,7 @@ Number Guessing Game : Personal Budget Calculator
 
 ## 3. Project Description
 
-This program is a simple game in which the player must guess a number determined by the computer.
-
+A website designed to help users calculate their personal financial situation in a simple way.
 ---
 
 ## 4. Objectives
@@ -47,8 +46,8 @@ This project is designed to apply the following programming concepts:
 
 The program receives:
 
-- The player's guess
-- The number of attempts
+- The user income
+- The user expense category
 
 ---
 
@@ -67,11 +66,7 @@ If the guess is:
 ## 7. Output
 
 The program displays:
-
-- The result of each guess
-- Hints or feedback
-- The number of remaining attempts
-- The final game status (win/loss)
+- The user financial category
 
 ---
 
