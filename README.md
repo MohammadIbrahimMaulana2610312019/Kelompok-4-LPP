@@ -74,7 +74,8 @@ The program displays:
 
 The algorithm used in the program is described in:
 
-`pseudocode.txt`
+`pseudocode.txt`(pseudecode.txt)
+
 
 ---
 
